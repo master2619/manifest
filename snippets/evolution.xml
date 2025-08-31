@@ -20,6 +20,23 @@
            name="fdroid/fdroid-privileged-extensions"
            remote="fdroid"
            revision="master" />
+  <remote name="github" fetch="https://github.com/" />
+    
+  <project path="packages/apps/AFWallPlus"
+           name="ukanth/afwall"
+           remote="github"
+           revision="master" />
+
+  <project path="packages/apps/NetGuard"
+           name="M66B/NetGuard"
+           remote="github"
+           revision="master" />
+
+  <project path="packages/apps/Orbot"
+           name="torproject/orbot"
+           remote="github"
+           revision="master" />
+
 
   <remote  name="evo-tensor"
            fetch="https://git.evolution-x.org/Evolution-X-Tensor"
