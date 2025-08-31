@@ -13,6 +13,8 @@
            sync-j="4"
            revision="refs/heads/bka" />
 
+  <remote name="graphene" fetch="https://github.com/GrapheneOS/" />
+
   <remote name="fdroid" fetch="https://gitlab.com/fdroid/" />
   <project path="packages/apps/FdroidPrivilegedExtension"
            name="fdroid/fdroid-privileged-extensions"
