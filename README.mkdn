@@ -2,7 +2,7 @@
 
 # Initialize local repository
 ```
-repo init -u https://github.com/Evolution-X/manifest -b bka --git-lfs
+repo init -u https://github.com/master2619/manifest -b bka --git-lfs
 ```
 
 # Sync up
